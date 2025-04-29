@@ -1,4 +1,4 @@
-# Experiment No: 2l – SEB-Create Dictionary of Squares
+# Experiment No: 4a Create Dictionary of Squares
 
 ## AIM  
 To write a Python program that creates a dictionary with integers from 1 to `n` as keys and their squares as values.
